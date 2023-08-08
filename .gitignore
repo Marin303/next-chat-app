@@ -4,14 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.env
 # testing
 /coverage
 
 # next.js
 /.next/
 /out/
-
+/pb_data
+/pb_migrations
 # production
 /build
 
