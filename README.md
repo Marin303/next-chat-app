@@ -23,3 +23,6 @@ npm i --save next-auth
 ```
 npm i @next-auth/upstash-redis-adapter
 ```
+```
+npm i react-hot-toast
+```
