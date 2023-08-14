@@ -26,3 +26,7 @@ npm i @next-auth/upstash-redis-adapter
 ```
 npm i react-hot-toast
 ```
+
+```
+npm i @tailwindcss/forms
+```
